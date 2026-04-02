@@ -1,6 +1,6 @@
-# Sesimle Sana Desteğim — Engelsiz Eğitime Ses Ver
+# Sesimle Sana Desteğim — Karanlık Dünyamı Aydınlatan Ses
 
-Sınavlara hazırlanan engelli bireylerin test kitaplarındaki soruları ve çözümleri okunarak erişilebilir hale getiren gönüllü bir topluluk hareketi.
+Sınavlara hazırlanan görme engellilerin test kitaplarındaki soruları ve çözümleri okunarak erişilebilir hale getiren gönüllü bir topluluk hareketi.
 
 **Canlı Site:** [sesimledestek-nab63egf.manus.space](https://sesimledestek-nab63egf.manus.space)
 
@@ -8,7 +8,7 @@ Sınavlara hazırlanan engelli bireylerin test kitaplarındaki soruları ve çö
 
 ## 🎯 Misyon
 
-Eğitimde eşitliğe ses vermek. Görme engelli ve fiziksel engelli bireylerin sınav hazırlık süreçlerini kolaylaştırmak amacıyla gönüllü okuyucularımız test kitaplarındaki soruları ve çözümleri sesli olarak kayıt altına alıyor. Bu kayıtlar engelli bireylere ücretsiz olarak ulaştırılıyor.
+Eğitimde eşitliğe ses vermek. Görme engellilerin sınav hazırlık süreçlerini kolaylaştırmak amacıyla gönüllü okuyucularımız test kitaplarındaki soruları ve çözümleri sesli olarak kayıt altına alıyor. Bu kayıtlar görme engellilere ücretsiz olarak ulaştırılıyor.
 
 ---
 
@@ -268,7 +268,7 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 ## 🙏 Teşekkürler
 
-Bu proje tüm gönüllü okuyuculara, destekçilere ve engelli bireylerin eğitim hakkını savunan herkese adanmıştır.
+Bu proje tüm gönüllü okuyuculara, destekçilere ve görme engellilerin eğitim hakkını savunan herkese adanmıştır.
 
 **Sesin bir fark yaratabilir. Bugün gönüllü ol.**
 

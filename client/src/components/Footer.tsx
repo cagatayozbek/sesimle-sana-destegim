@@ -21,7 +21,7 @@ export default function Footer() {
               Sesimle Sana Desteğim
             </h3>
             <p className="text-sm text-stone-600 leading-relaxed">
-              Sınavlara hazırlanan engelli bireylerin test kitaplarındaki soruları ve çözümleri
+              Sınavlara hazırlanan görme engellilerin test kitaplarındaki soruları ve çözümleri
               okunarak erişilebilir hale getiriyoruz. Her okunan soru, bir adım daha eşit bir
               eğitim demek.
             </p>

@@ -206,9 +206,9 @@ export default function Home() {
                   className="text-4xl md:text-5xl lg:text-6xl font-bold text-stone-800 leading-tight"
                   style={{ fontFamily: "'Lora', serif" }}
                 >
-                  Engelsiz eğitim için{" "}
-                  <em className="not-italic text-amber-600">sesimizi</em>{" "}
-                  birleştiriyoruz
+                  Karanlık dünyamı{" "}
+                  <em className="not-italic text-amber-600">aydınlatan</em>{" "}
+                  ses
                 </h1>
               </div>
 
@@ -217,7 +217,7 @@ export default function Home() {
                 className="text-lg text-stone-600 leading-relaxed max-w-lg"
                 style={{ fontFamily: "'Nunito', sans-serif" }}
               >
-                Sınavlara hazırlanan engelli bireylerin test kitaplarındaki soruları ve
+                Sınavlara hazırlanan görme engellilerin test kitaplarındaki soruları ve
                 çözümleri okunarak erişilebilir hale getiriyoruz.{" "}
                 <strong className="text-stone-700 font-semibold">
                   Her okunan soru, bir adım daha eşit bir eğitim demek.
@@ -377,7 +377,7 @@ export default function Home() {
               <ScrollReveal delay={200}>
                 <p className="text-stone-600 leading-relaxed">
                   <strong className="text-stone-700">Sesimle Sana Desteğim</strong>, görme
-                  engelli ve fiziksel engelli bireylerin sınav hazırlık süreçlerini
+                  engellilerin sınav hazırlık süreçlerini
                   kolaylaştırmak amacıyla kurulan gönüllü bir topluluktur.
                 </p>
               </ScrollReveal>
@@ -424,7 +424,7 @@ export default function Home() {
                 <em className="not-italic text-amber-600">çözümü birlikte üretiyoruz</em>
               </h2>
               <p className="text-stone-600 max-w-2xl mx-auto">
-                Eğitim materyallerinin erişilebilir olmaması, engelli bireylerin önündeki en
+                Eğitim materyallerinin erişilebilir olmaması, görme engellilerin önündeki en
                 büyük engellerden biridir.
               </p>
             </div>
@@ -445,7 +445,7 @@ export default function Home() {
                 </h3>
                 <p className="text-stone-600 text-sm leading-relaxed mb-4">
                   Test kitapları ve sınav materyalleri genellikle yalnızca görsel formatta
-                  sunuluyor. Bu durum görme engelli ve fiziksel engelli bireylerin bağımsız
+                  sunuluyor. Bu durum görme engellilerin bağımsız
                   çalışmasını zorlaştırıyor.
                 </p>
                 <ul className="space-y-2.5">
@@ -488,7 +488,7 @@ export default function Home() {
                 </h3>
                 <p className="text-stone-600 text-sm leading-relaxed mb-4">
                   Gönüllü okuyucularımız test kitaplarındaki soruları ve çözümleri sesli
-                  olarak kayıt altına alıyor. Bu kayıtlar engelli bireylere ücretsiz olarak
+                  olarak kayıt altına alıyor. Bu kayıtlar görme engellilere ücretsiz olarak
                   ulaştırılıyor.
                 </p>
                 <ul className="space-y-2.5">
@@ -642,7 +642,7 @@ export default function Home() {
               {
                 icon: <Mic className="w-7 h-7" />,
                 title: "Gönüllü Okuyucu Ol",
-                desc: "Sesini kullanarak soruları oku ve engelli bireylerin eğitimine katkıda bulun. Profesyonel ekipman gerekmez, sadece samimi bir ses.",
+                desc: "Sesini kullanarak soruları oku ve görme engellilerin eğitimine katkıda bulun. Profesyonel ekipman gerekmez, sadece samimi bir ses.",
                 cta: "Gönüllü Ol",
                 bg: "bg-amber-500",
                 textBg: "bg-amber-600",
