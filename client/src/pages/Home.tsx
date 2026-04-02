@@ -12,8 +12,8 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 // Görsel URL'leri
-const HERO_IMG = "https://d2xsxph8kpxj0f.cloudfront.net/310519663506796281/NaB63EgFCT9S2CcEzHqHHX/hero-volunteer-K6MRWqJi2nzCZRr8XaLY7N.webp";
-const COMMUNITY_IMG = "https://d2xsxph8kpxj0f.cloudfront.net/310519663506796281/NaB63EgFCT9S2CcEzHqHHX/community-warmth-gjXyBoiR5Rd7m3TAstAwJ4.webp";
+const HERO_IMG = "/hero.webp";
+const COMMUNITY_IMG = "/about.jpg";
 const HOPE_IMG = "https://d2xsxph8kpxj0f.cloudfront.net/310519663506796281/NaB63EgFCT9S2CcEzHqHHX/accessibility-hope-ez64q7pkNAUCigmpu6ys9u.webp";
 const RECORDING_IMG = "https://d2xsxph8kpxj0f.cloudfront.net/310519663506796281/NaB63EgFCT9S2CcEzHqHHX/volunteer-recording-QXvSjdxjqdJhD2PHF4cyzb.webp";
 
@@ -280,7 +280,7 @@ export default function Home() {
                   >
                     "Sesimi kullanarak birine dokunabilmek, gönüllülüğün en saf hali."
                   </p>
-                  <p className="text-xs text-amber-600 font-bold mt-2">— Ayşe, Gönüllü Okuyucu</p>
+                  <p className="text-xs text-amber-600 font-bold mt-2"></p>
                 </div>
               </div>
 
